@@ -1,0 +1,13 @@
+.Webcam-module {
+  margin-top: 30vh;
+  margin-left: 1%;
+}
+
+.warning {
+  margin-top: 0;
+}
+
+.warning h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 32px;
+}
